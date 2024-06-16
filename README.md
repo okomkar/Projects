@@ -8,7 +8,7 @@ https://public.tableau.com/app/profile/omkar.kulkarni4274/viz/NetflixDashboard_1
 This project involves creating an interactive dashboard to analyze and visualize Netflix data using various KPIs and metrics. The dataset consists of 12 fields and 6234 rows, providing a comprehensive overview of movies and TV shows available on Netflix.
 
 # Key Performance Indicators (KPIs) and Visualizations
-1. Total Movies and TV Shows by Year:
+1. **Total Movies and TV Shows by Year**:
 
 A line chart that displays the total number of movies and TV shows added to Netflix each year. This visualization helps in understanding the growth and trends in Netflix's content library over time.
 
