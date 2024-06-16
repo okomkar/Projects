@@ -33,10 +33,11 @@ A histogram or bar chart that shows the distribution of ratings for movies and T
 An interactive feature where users can select a movie or TV show and see its description. This could be implemented as a dropdown menu or a search bar, allowing users to explore detailed information about specific titles.
 
 # How to Use the Dashboard
-**1. Total Movies and TV Shows by Yea**r: Navigate through the years to see the trend of content addition on Netflix.
-**2. Country-wise Content Distribution**: Hover over countries to see the exact number of movies and TV shows produced.
-**3. Top 10 Genres**: Explore the most popular genres on Netflix.
-**4. Content Type Distribution**: Get a quick overview of the proportion of movies vs. TV shows.
-**5. Ratings Distribution**: Analyze the ratings to understand content quality.
-**6. Content Description**: Select any movie or TV show to read its description and details.
+**1. Total Movies and TV Shows by Yea**r : Navigate through the years to see the trend of content addition on Netflix.
+
+**2. Country-wise Content Distribution** : Hover over countries to see the exact number of movies and TV shows produced.
+**3. Top 10 Genres** : Explore the most popular genres on Netflix.
+**4. Content Type Distribution** : Get a quick overview of the proportion of movies vs. TV shows.
+**5. Ratings Distribution** : Analyze the ratings to understand content quality.
+**6. Content Description** : Select any movie or TV show to read its description and details.
 
